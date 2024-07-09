@@ -2,7 +2,7 @@
 
 - 💻 I’m fascinated by information security, both on the offensive and defensive sides.
 - 🦉 Currently learning Blue Team security analysis and network/system hardening.
-- 📜 Studying for the Security+ certification exam, which I plan to take shortly.
+- 📜 Recently completed the CompTIA Security+.
 - 🚀 Originally worked in an IT analysis and development role, but have been playing CTFs for several years and recently began taking steps to fully pivot into cybersecurity, my first love.
 
 <!---
